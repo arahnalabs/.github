@@ -1,2 +1,1 @@
-# arahnalabs
-About Arahna Labs
+# Arahna Labs
